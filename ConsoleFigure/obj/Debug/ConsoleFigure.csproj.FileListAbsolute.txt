@@ -1,0 +1,7 @@
+C:\Users\Pavel\source\repos\ConsoleFigure\ConsoleFigure\bin\Debug\ConsoleFigure.exe.config
+C:\Users\Pavel\source\repos\ConsoleFigure\ConsoleFigure\bin\Debug\ConsoleFigure.exe
+C:\Users\Pavel\source\repos\ConsoleFigure\ConsoleFigure\bin\Debug\ConsoleFigure.pdb
+C:\Users\Pavel\source\repos\ConsoleFigure\ConsoleFigure\obj\Debug\ConsoleFigure.csprojAssemblyReference.cache
+C:\Users\Pavel\source\repos\ConsoleFigure\ConsoleFigure\obj\Debug\ConsoleFigure.csproj.CoreCompileInputs.cache
+C:\Users\Pavel\source\repos\ConsoleFigure\ConsoleFigure\obj\Debug\ConsoleFigure.exe
+C:\Users\Pavel\source\repos\ConsoleFigure\ConsoleFigure\obj\Debug\ConsoleFigure.pdb
